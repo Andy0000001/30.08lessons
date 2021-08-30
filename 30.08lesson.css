@@ -1,0 +1,40 @@
+ul {
+    list-style: none;
+    padding: 0px;h
+    margin: 0px;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+}
+
+form li {
+    margin: 0.5em;
+}
+
+form {
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 1.5em;
+    padding: 1em;
+    margin: auto;
+}
+
+textarea {
+    vertical-align: top;
+}
+
+input, textarea {
+    font: 1em sans-serif;
+    width: 250px;
+    border: 1px solid darkgray;
+}
+
+input[id="sendBtn"] {
+    width: 256px;
+}
+h2 {
+    text-align: center;
+}
